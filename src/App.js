@@ -72,7 +72,7 @@ export default class App extends React.Component {
                 <input type="checkbox" id="nav-check"/>
                     <div class="nav-header">
                         <div class="nav-title">
-                        CORVID 101
+                        COVID 101
                         </div>
                     </div>
                     <div class="nav-btn">
@@ -85,7 +85,7 @@ export default class App extends React.Component {
           
                 <div class="nav-links">
                     <a href="#home-section">Home</a>
-                    <a href="#corvid">CORVID-19</a>
+                    <a href="#corvid">COVID-19</a>
                     <a href="#contributor">Contributors</a>
                 </div>
             </div>
